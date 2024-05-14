@@ -197,9 +197,10 @@ section:nth-child(even) {
 
 }
 
+    /* Improving me own picture */
+     
 .about-me__picture {
     width: 100%;
-    /* Improving me own picture */
     transform: scale(1.5);
     padding-bottom: 48px;
 }
@@ -300,7 +301,7 @@ section:nth-child(even) {
 }
 
 .language {
-    width: 25%;
+    width: 20%;
     display: flex;
     justify-content: center;
     position: relative;
